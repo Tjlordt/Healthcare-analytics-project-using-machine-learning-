@@ -1,3 +1,37 @@
-# APPLIED-DATA-SCIENCE- 
-My analysis is related to sleep efficiency and may involve exploring relationships between sleep efficiency and various factors such as caffeine consumption, alcohol consumption, smoking status, and age. The analysis may involve visualizing these relationships using line, bar, and scatter plots.
-It is also aimed at gaining insights into factors that may affect sleep efficiency and the analysis shares the usefulness for understanding the factors that contribute to sleep efficiency and for developing interventions or recommendations to improve sleep quality, such as reducing alcohol consumption or quitting smoking. The analysis may also help identify factors that could be contributing to poor sleep quality in certain populations, such as older adults.
+# Healthcare Predictive Analytics Using Machine Learning
+
+## Overview
+This project applies data science and machine learning techniques to analyse factors influencing sleep efficiency, a key indicator of health and wellbeing. The aim is to identify patterns and relationships between lifestyle factors and sleep quality, and to demonstrate how data-driven approaches can support healthcare insights.
+
+## Objectives
+- Analyse factors affecting sleep efficiency  
+- Identify key variables influencing sleep quality  
+- Explore relationships between behavioural and health indicators  
+- Provide data-driven insights for improving sleep outcomes  
+
+## Dataset
+The dataset includes variables such as:
+- Sleep efficiency  
+- Caffeine consumption  
+- Alcohol consumption  
+- Smoking status  
+- Age  
+
+## Methodology
+- Data cleaning and preprocessing using Pandas  
+- Exploratory Data Analysis (EDA)  
+- Statistical analysis of relationships between variables  
+- Data visualisation using Matplotlib and Seaborn  
+
+## Tools Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+## Results & Insights
+The analysis highlights key factors associated with sleep efficiency and provides insights into how lifestyle behaviours impact sleep quality. The findings demonstrate the potential of data-driven approaches in supporting healthcare-related decision-making.
+
+## Conclusion
+This project demonstrates how data science techniques can be applied to health-related datasets to generate meaningful insights. It provides a foundation for further work in predictive modelling and healthcare analytics.
